@@ -1,0 +1,17 @@
+---
+consul-template/consul-template_0.12.0_linux_amd64.zip:
+  object_id: 9cd3af55-8fdd-4cce-993c-cefb318fea62
+  sha: ba305ed40d48b7b4eb040c8e955bdff292362091
+  size: 3163737
+envconsul/envconsul_0.3.0_linux_amd64.tar.gz:
+  object_id: 3f4ac3e3-6c93-4373-bcbb-11979e504784
+  sha: 14d879bfcbbbd7025193dee981dadf8858eaa669
+  size: 2023091
+consul/consul_0.6.4_linux_amd64.zip:
+  object_id: d191dc98-961b-49e5-9ac3-ebb481644662
+  sha: 85de555de27cae126f0f89e762f6136e1c7104b6
+  size: 6206903
+consul-ui/consul_0.6.4_web_ui.zip:
+  object_id: 771a25e4-1c98-41c4-8d9d-2627d4d652a8
+  sha: 242fb4067d1627f64062b71f255f4b55386114d2
+  size: 253852
